@@ -66,7 +66,7 @@ h1 {
 .x {
   font-size: 65px;
   color: red;
-  display: inline-block;
+  display: none;
   line-height: 100px;
 }
 
